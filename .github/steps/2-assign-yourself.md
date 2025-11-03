@@ -5,19 +5,23 @@
   Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
 
-## Step 2: Assign yourself
+## Step 2: 把自己设为负责人
 
-_Great job opening that pull request! :wave:_
+_你已经成功创建了一个 Pull Request! :wave:_
 
-**What is a _pull request review_?**: Reviewing a pull request is an opportunity to examine another contributor's changes and give them feedback. It's an awesome opportunity to learn more about how the project works and how others solve problems.
+**什么是 _Pull Request 审查_?**: 当别人提交了一个 Pull Request 时, 其他协作者就可以对它进行审查（review）。你可以查看他们修改的内容，提出意见或建议，帮助改进代码。 
+这不仅能提升项目质量，也是一个学习他人思路、了解项目结构的好机会。
 
-The best way to get a review is to ask for one. On GitHub, you can ask someone to review a pull request by assigning them as a reviewer or assignee. If you are not ready for review, consider [creating a draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) instead.
+想要别人帮你审查 Pull Request，最直接的方法就是指派（assign）。 在 GitHub 上，你可以把某个人设为负责处理这个 PR 的 assignee， 或者把他们添加为 reviewer（审查者）。
 
-### :keyboard: Activity: Assign yourself
+### :keyboard: 实操环节: 指派给自己
 
-1. Open the pull request you just created.
-1. Under **Assignees** on the right side of the screen, add yourself.
+1. 打开刚刚创建的 Pull Request。
+2. 在页面右侧找到 **Assignees（负责人）** 栏。
+3. 点击“添加”并选择你自己的用户名。
 
-   Because you created the pull request, you can't assign yourself as a reviewer, but feel free to assign a friend as a reviewer instead to see how it works :smile:
+   > 由于 Pull Request 是你自己创建的，你无法将自己设为 reviewer（审查者）。
+   > 不过，你可以尝试把朋友添加为 reviewer，体验一下整个流程 😄
 
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+4. 等待大约 20 秒，然后刷新此页面。
+   [GitHub Actions](https://docs.github.com/en/actions) 会检测到操作并自动进入下一步。

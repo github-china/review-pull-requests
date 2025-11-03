@@ -3,25 +3,23 @@
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+## 完成
 
-_Congratulations friend, you've completed this course!_
+_你已经顺利完成了本课程!_
 
 <img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
 
-As you continue working on GitHub, remember that high quality reviews improve your projects. If you are new to a repository, inquire about what review practices they have so you can hit the ground running.
+下面是课程内容回顾：
 
-Here's a recap of all the tasks you've accomplished in your repository:
+- 学会了如何为 Pull Request 分配审查人
+- 学会了如何对 Pull Request 进行审查
+- 学会了如何提出修改建议
+- 学会了如何应用别人提出的修改建议
 
-- You learned how to assign pull requests for review.
-- You left a review on a pull request.
-- You suggested changes to a pull request.
-- You applied suggested changes to a pull request.
+### 接下来可以尝试：
 
-### What's next?
-
-- Try adding a [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file to your project to automatically assign reviewers to pull requests.
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/review-pull-requests).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+* 给项目添加一个 [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) 文件，自动为 Pull Request 指定审查人
+* 欢迎在[讨论区](https://github.com/orgs/skills/discussions/categories/review-pull-requests)分享你的学习心得
+* 再试试其他 [GitHub Skills](https://github.com/skills) 课程
+* 阅读 [GitHub 入门指南](https://docs.github.com/en/get-started)
+* 想找项目参与？看看 [GitHub Explore](https://github.com/explore) 吧 🚀
